@@ -1,0 +1,5 @@
+C:\Users\admin\BaiLad\Lad1\obj\Debug\net8.0\Lad1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\BaiLad\Lad1\obj\Debug\net8.0\Lad1.AssemblyInfoInputs.cache
+C:\Users\admin\BaiLad\Lad1\obj\Debug\net8.0\Lad1.AssemblyInfo.cs
+C:\Users\admin\BaiLad\Lad1\obj\Debug\net8.0\Lad1.csproj.CoreCompileInputs.cache
+C:\Users\admin\BaiLad\Lad1\obj\Debug\net8.0\Lad1.MvcApplicationPartsAssemblyInfo.cache
